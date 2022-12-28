@@ -1,10 +1,4 @@
 {
-  "items": [
-    { "path": "scenario2" },
-    { "path": "course1", "title": "Override title of course ONE" },
-    { "path": "course2" }
-  ]
-{
   "title": "Kubernetes 2node multi-step verification",
   "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
   "details": {
@@ -30,4 +24,4 @@
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"
   }
-}}
+}
